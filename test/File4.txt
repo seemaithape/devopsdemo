@@ -1,0 +1,11 @@
+test1 test tes66
+
+sdsdsdd 2
+
+dfdf
+
+im viewcp --hostname=localhost --port=6556 --user=administrator --password=password %cpid% > cp.txt
+
+im checkout 
+
+si ci --hostname=localhost --port=6556 --user=administrator --password=password --retainWorkingFile=yes
